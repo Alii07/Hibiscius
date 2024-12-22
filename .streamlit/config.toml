@@ -1,0 +1,9 @@
+[theme]
+base = "dark"  # Imposer le mode dark
+
+[server]
+enableCORS = false
+allowRunOnSave = false
+
+[browser]
+gatherUsageStats = false  # Désactive les statistiques
